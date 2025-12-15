@@ -1,0 +1,41 @@
+[
+  {
+    "id": 1,
+    "name": "Western Regional Instrumentation Centre",
+    "location": "Mumbai",
+    "established": "1978",
+    "description": "This Centre was established by the University Grants Commission under the administrative control of Mumbai University to provide training to USIC staff and students for proper use and maintenance of instruments, conducting advanced study programmes such as workshops, seminars for teachers, research workers from universities, national laboratories and industries.",
+    "recommendation": "https://www.ugc.gov.in/oldpdf/National_Facilities/indian_westrn_reginal_mumbai.pdf",
+    "more": "http://www.wric.mu.ac.in/"
+  },
+
+  {
+    "id": 2,
+    "name": "M.S.T. Radar Facilities",
+    "location": "Sri Venkateshwar University, Tirupati",
+    "established": "1990",
+    "description": "The University Grants Commission established a centre for MST Radar application in the Physics Department of SV University, Tirupati, to utilize the National MST Radar facilities created at Gadanki by researchers and scientists in Indian universities.",
+    "recommendation": "https://www.ugc.gov.in/oldpdf/National_Facilities/mst_radar_cantretripati.pdf",
+    "more": "https://www.isro.gov.in/"
+  },
+
+  {
+    "id": 3,
+    "name": "Inter University Centre for Humanities and Social Sciences (IUCHSS)",
+    "location": "Indian Institute of Advanced Study, Shimla",
+    "established": "Not specified",
+    "description": "The Centre invites teachers from universities and colleges as associates of the IUC, organizes research seminars for researchers and young teachers, and conducts study weeks for discussing important national and international issues.",
+    "recommendation": "https://www.ugc.gov.in/oldpdf/National_Facilities/indian_int_adv_shimla.pdf",
+    "more": "http://www.iias.org/"
+  },
+
+  {
+    "id": 4,
+    "name": "Crystal Growth Centre",
+    "location": "Anna University, Chennai",
+    "established": "1982",
+    "description": "The Centre aims to develop facilities for growth and characterization of crystals of technological and industrial importance, bridge the gap between industry needs and laboratory research, and cater to Indian institutions requiring special crystals for research.",
+    "recommendation": "https://www.ugc.gov.in/oldpdf/National_Facilities/crystal_growth_centreannauni_chennai.pdf",
+    "more": "https://www.annauniv.edu/CGC/"
+  }
+]

@@ -1,0 +1,333 @@
+[
+  {
+    "joint": [
+      {
+        "name": "Dr.(Mrs.) Archana Thakur",
+        "post": "Joint Secretary",
+        "photo": "https://www.ugc.gov.in/Content/images/staff/4848381_Archana-Thakur.jpg",
+        "description": [
+          "Institutional Development Plan (IDP)",
+          "International Cooperation (IC)",
+          "Promotion of Indian Languages (Bhartiya Bhasha)",
+          "Science and Research",
+          "Yoga"
+        ]
+      },
+      {
+        "name": "Dr. N. Gopukumar",
+        "post": "Joint Secretary",
+        "photo": "https://www.ugc.gov.in/Content/images/staff/1254857_N-Gopukumar.jpg",
+        "description": [
+          "Deemed to be University (DU)",
+          "Learning Outcome based Curriculum Framework (LOCF)",
+          "Quality Mandate Coordination",
+          "Vigilance Cell"
+        ]
+      },
+      {
+        "name": "Dr. Jitendra Kumar Tripathi",
+        "post": "Joint Secretary",
+        "photo": "https://www.ugc.gov.in/Content/images/staff/6520629_J-K-Tripathi.jpg",
+        "description": [
+          "AMPC (Anti Mal Practice Cell)",
+          "Educational Multimedia Research Center (EMMRCs)",
+          "Green Matters/VIP Reference",
+          "Inter University Center (IUC)",
+          "Legal",
+          "Malaviya Mission- Teachers Training Programme (MM-TTP)",
+          "National Facilities Center (NFCs)"
+        ]
+      },
+      {
+        "name": "Dr. Sunita Siwach",
+        "post": "Joint Secretary",
+        "photo": "https://www.ugc.gov.in/Content/images/staff/5551826_Sunita-Siwach.jpg",
+        "description": [
+          "Anti Ragging Cell",
+          "College Development Bureau (CDB)",
+          "Fee Nivaran (Refund of Fee and Non-Retention of Academic Certificates)",
+          "Internal Complaint Committee (ICC)",
+          "Sports"
+        ]
+      },
+      {
+        "name": "Dr. Avichal Raj Kapur",
+        "post": "Joint Secretary",
+        "photo": "https://www.ugc.gov.in/Content/images/staff/2199585_Dr-Avichal-Raj-Kapur.jpg",
+        "description": [
+          "Academic Bank of Credits",
+          "Common University Entrance Test (CUET)",
+          "Coordination Policy and Planning (CPP-II)",
+          "HECI",
+          "Internship",
+          "NAD (National Academic Depository)",
+          "NEP Coordination and Implementation",
+          "NEP SAARTHI",
+          "Skill Education Bureau (NSQF)",
+          "UTSAH Portal"
+        ]
+      },
+      {
+        "name": "Dr. R. Manoj Kumar",
+        "post": "Joint Secretary",
+        "photo": "https://www.ugc.gov.in/Content/images/staff/2488955_R-Manoj-Kumar.jpg",
+        "description": [
+          "Autonomous College",
+          "Establishment of Centre for Study of Social Inclusion in Universities (CSSIU)"
+        ]
+      },
+      {
+        "name": "Dr. G.S. Chauhan",
+        "post": "Joint Secretary",
+        "photo": "https://www.ugc.gov.in/Content/images/staff/8832918_G-S-Chauhan.jpg",
+        "description": [
+          "ASIHSS",
+          "ASSIST",
+          "Career Oriented Courses (COC)",
+          "Coaching Classes for Entry into Services (SC/ST/OBC (NCL)/Minority)",
+          "Computer and Technology",
+          "Higher Education for Persons with Special Needs (HEPSN)",
+          "Innovative",
+          "NFE (Non Formal Education)",
+          "Raj Bhasha",
+          "Receipt and Issue (UGC Office at 35 F.S.Road)",
+          "Remedial Coaching for SC/ST/OBC/Minority Community Students",
+          "SC/ST/OBC, Minorities, PWD & Parliamentary Standing Committee Matters",
+          "TEPSE"
+        ]
+      },
+      {
+        "name": "Mr. Deepak Vats",
+        "post": "Joint Secretary",
+        "photo": "https://www.ugc.gov.in/Content/images/staff/8260537_Deepak-Vats.jpg",
+        "description": [
+          "Basic Science Research (BSR)",
+          "Equivalence Cell",
+          "National Eligibility Test (NET)",
+          "UGC Scholarship Fellowship Research Grants for Teachers at a Glance"
+        ]
+      },
+      {
+        "name": "Dr. Madhukar Maruti Waware",
+        "post": "Joint Secretary",
+        "photo": "https://www.ugc.gov.in/Content/images/staff/5229423_Madhukar-M-Waware.jpg",
+        "description": [
+          "Computer and Networking Cell",
+          "Distance Education Bureau (ODL and Online)",
+          "E-Governance",
+          "Human Rights Value Education (HRVE)",
+          "ICT",
+          "UGC Website"
+        ]
+      },
+      {
+        "name": "Colonel Vipin Kaushal, SM",
+        "post": "Joint Secretary",
+        "photo": "https://www.ugc.gov.in/Content/images/staff/9034245_Colonel-Vipin-Kaushal-SM.jpg",
+        "description": [
+          "Administration-I/A-B",
+          "Administration-I/C",
+          "General Admin",
+          "Meeting Cell",
+          "Receipt and Issue (UGC Main Office)",
+          "UGC Travel Desk"
+        ]
+      },
+      {
+        "name": "Dr. Mantha Srinivasu",
+        "post": "Joint Secretary",
+        "photo": "https://www.ugc.gov.in/Content/images/staff/5016048_Mantha-Srinivasu.jpg",
+        "description": [
+          "Annual Report",
+          "Indian Knowledge System",
+          "Publication",
+          "Sanskrit Cell"
+        ]
+      },
+      {
+        "name": "Dr. Ashima Mangla",
+        "post": "Joint Secretary",
+        "photo": "https://www.ugc.gov.in/Content/images/staff/7886690_JS_Ashima_Mangla.jpg",
+        "description": [
+          "Centre for Data Analytics and Research",
+          "I and S (Information and Statistics)",
+          "State University",
+          "Task Force (Gender Sensitization)",
+          "Women’s Studies"
+        ]
+      },
+      {
+        "name": "Dr. Diksha Rajput",
+        "post": "Joint Secretary",
+        "photo": "https://www.ugc.gov.in/Content/images/staff/6221916_Diksha-Rajput.jpg",
+        "description": [
+          "Capacity Building Cell (CBC)",
+          "E-Content",
+          "Environment Education",
+          "Life Skills",
+          "MOOCs",
+          "SWAYAM",
+          "Unnat Bharat Abhiyan"
+        ]
+      },
+      {
+        "name": "Dr. Amol M. Andhare",
+        "post": "Joint Secretary",
+        "photo": "https://www.ugc.gov.in/Content/images/staff/4371404_Amol-M-Andhare.jpg",
+        "description": [
+          "Colleges With Potential for Excellence (CPE)",
+          "MRP (Major Research Projects) (SR)",
+          "MRP (Major Research Projects) (HRP)",
+          "Private University",
+          "Research and Development Cell",
+          "SAP (Special Assistance Program)",
+          "TG (Travel Grant)",
+          "Universities With Potential for Excellence (UPE)",
+          "University with Excellence (UE)"
+        ]
+      },
+      {
+        "name": "Dr. Gopi Chand Merugu",
+        "post": "Joint Secretary",
+        "photo": "https://www.ugc.gov.in/Content/images/staff/3815433_Gopi-Chand-Merugu-DS.jpg",
+        "description": [
+          "Delhi Colleges (DC)",
+          "Funded Colleges (Delhi, BHU etc.)",
+          "Inclusion of Colleges under Section 2(f) and 12B"
+        ]
+      }
+    ]
+  },
+  {
+    "deputy": [
+      {
+        "name": "Ms. Monika",
+        "post": "Deputy Secretary",
+        "photo": "https://www.ugc.gov.in/Content/images/staff/2893397_Monika.jpg",
+        "description": [
+          "Deemed to be University (DU)",
+          "Deemed to be University Funded",
+          "Industry Connect",
+          "Innovative",
+          "Public Grievances",
+          "Research and Development Cell",
+          "RTI (Right To Information Act)"
+        ]
+      },
+      {
+        "name": "Dr. Shalini",
+        "post": "Deputy Secretary",
+        "photo": "https://www.ugc.gov.in/Content/images/staff/8064947_SHALINI.jpg",
+        "description": [
+          "Chairs",
+          "Equivalence Cell"
+        ]
+      },
+      {
+        "name": "Mr. Vinod Singh Yadav",
+        "post": "Deputy Secretary",
+        "photo": "https://www.ugc.gov.in/Content/images/staff/7751719_Vinod-S-Yadav.jpg",
+        "description": [
+          "Computer and Networking Cell",
+          "E-Governance",
+          "Human Rights Value Education (HRVE)",
+          "ICT",
+          "Institutions of Eminence",
+          "PARAMARSH",
+          "Pradhan Mantri Uchchatar Shiksha Abhiyan (PM-USHA)",
+          "UGC Website"
+        ]
+      },
+      {
+        "name": "Mr. Jitendra",
+        "post": "Deputy Secretary",
+        "photo": "https://www.ugc.gov.in/Content/images/staff/1399774_JITENDRA.jpg",
+        "description": [
+          "CARE Journals",
+          "Finance",
+          "Integrated Finance Division"
+        ]
+      },
+      {
+        "name": "Mrs. Megha Kaushik",
+        "post": "Deputy Secretary",
+        "photo": "https://www.ugc.gov.in/Content/images/staff/2857067_Megha-Kaushik.jpg",
+        "description": [
+          "Basic Science Research (BSR)",
+          "Selection and Awards-I (SA-I)",
+          "Selection and Awards-II (SA-II)",
+          "Selection and Awards-III (SA-III)",
+          "Selection and Awards-IV (SA-IV)",
+          "STRIDE"
+        ]
+      },
+      {
+        "name": "Ms. Pooja Bhaumick",
+        "post": "Deputy Secretary",
+        "photo": "https://www.ugc.gov.in/Content/images/staff/",
+        "description": [
+          "Institutional Development Plan (IDP)",
+          "International Cooperation (IC)",
+          "Promotion of Indian Languages (Bhartiya Bhasha)",
+          "Science and Research",
+          "Yoga"
+        ]
+      },
+      {
+        "name": "Dr. Smita Bidani",
+        "post": "Deputy Secretary",
+        "photo": "https://www.ugc.gov.in/Content/images/staff/9251658_Smita-bidani.jpg",
+        "description": [
+          "Coordination Policy and Planning (CPP-II)",
+          "e-Samadhaan",
+          "National Eligibility Test (NET)"
+        ]
+      },
+      {
+        "name": "Dr. Mriganka Sekhar Sarma",
+        "post": "Deputy Secretary",
+        "photo": "https://www.ugc.gov.in/Content/images/staff/7627842_Mriganka-S-Sarma.jpg",
+        "description": [
+          "Central University (CU)"
+        ]
+      },
+      {
+        "name": "Dr. Prashant Dwivedi",
+        "post": "Deputy Secretary",
+        "photo": "https://www.ugc.gov.in/Content/images/staff/",
+        "description": [
+          "Equivalence Cell"
+        ]
+      },
+      {
+        "name": "Dr. Salil S.",
+        "post": "Deputy Secretary",
+        "photo": "https://www.ugc.gov.in/Content/images/staff/5003396_Salil-S.jpg",
+        "description": [
+          "Centre for Data Analytics and Research",
+          "Distance Education Bureau (ODL and Online)",
+          "Social Media"
+        ]
+      },
+      {
+        "name": "Ms. Neethu S. Thulaseedharan",
+        "post": "Deputy Secretary",
+        "photo": "https://www.ugc.gov.in/Content/images/staff/8300081_Neethu-S-Thulaseedharan.jpg",
+        "description": []
+      },
+      {
+        "name": "Dr. Nikhil Kumar",
+        "post": "Deputy Secretary",
+        "photo": "https://www.ugc.gov.in/Content/images/staff/1716528_Nikhil-Kumar.jpg",
+        "description": [
+          "Educational Multimedia Research Center (EMMRCs)",
+          "Inter University Center (IUC)",
+          "Joint Cadre Review Cell (JCRC)",
+          "National Facilities Center (NFCs)",
+          "Parliament",
+          "Pay Scale"
+        ]
+      }
+    ]
+  }
+]
