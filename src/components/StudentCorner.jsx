@@ -4,6 +4,7 @@ import HeaderMid from './HeaderMid'
 import HeaderTop from './HeaderTop'
 import Footer from './Footer'
 import data from "../JsonData/StudentCornerData.json"
+import { NavLink } from 'react-router-dom'
 function StudentCorner() {
     const [selected,setSelected]=useState(1)
     const renderState=()=>{
@@ -13,11 +14,21 @@ function StudentCorner() {
                     <>
                         <div className='font-bold text-amber-600 text-3xl'>{items.title}</div>
                         <div>
-                            <table>
-                                <tr>
-                                    <th>Sr.No.</th>
-                                    <th>{items.title}</th>
+                            <table className='w-12 mb-10'>
+                                <tr className='bg-amber-600 text-white'>
+                                    <th><div className='w-24 p-3'>Sr.No.</div></th>
+                                    <th><div className='w-xl py-3 pl-3'>{items.title}</div></th>
                                 </tr>
+                                {
+                                    items.list.map((data1)=>(
+                                        <tr>
+                                            <td><div className='w-24 p-3'>{data1.id}</div></td>
+                                            <td className='flex justify-around items-center pr-2'><div className='w-xl py-3 pl-3'>{data1.name}</div>
+                                            {linking(data1)}
+                                            </td>
+                                       </tr>
+                                    )) 
+                                }
                             </table>
                         </div>
                     </>
@@ -25,6 +36,25 @@ function StudentCorner() {
             }
             else return null
         })
+    }
+    function linking(data1){
+        if(selected==1 || selected==2){
+            return(
+                <NavLink className='!no-underline text-black' to={`/${data1.view}`}>View</NavLink>
+            )
+        }
+        else if(selected==3){
+            const allowed = [1,2,3,5,6,7,8,9,10,11,16,19]
+            if(allowed.includes(data1.id)){
+                return(
+                    <a className='!no-underline text-black' href={data1.view}>View</a>
+                )
+            }
+            else{
+                return(
+                <NavLink className='!no-underline text-black' to={`/${data1.view}`}>View</NavLink>
+            )  }
+        }
     }
   return (
     <>

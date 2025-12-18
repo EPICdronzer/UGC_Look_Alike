@@ -1,58 +1,63 @@
 [
   {
-    "id":1,
+    "id": 1,
     "title": "Fellowships",
     "list": [
       {
+        "id": 1,
         "name": "Junior Research Fellowship in Science, Humanities and Social Sciences",
-        "view": "View"
+        "view": "fellowship"
       },
       {
+        "id": 2,
         "name": "Savitribai Jyotirao Phule Fellowship For Single Girl Child",
-        "view": "View Scholarships"
+        "view": "fellowship"
       }
     ]
   },
   {
-    "id":2,
+    "id": 2,
     "title": "Scholarships",
     "list": [
       {
+        "id": 1,
         "name": "IshanUday Special Scholarship Scheme for North Eastern Region",
         "view": "View"
       },
       {
+        "id": 2,
         "name": "National Scholarship for Post Graduate Studies",
         "view": "View"
       }
     ]
   },
   {
-    "id":3,
+    "id": 3,
     "title": "Portals / Helplines for Students",
     "list": [
-      { "name": "SWAYAM", "view": "View" },
-      { "name": "National Academic Depository", "view": "View" },
-      { "name": "Academic Bank of Credits (ABC)", "view": "View" },
-      { "name": "Fake Universities Alerts", "view": "View" },
-      { "name": "e-Samadhaan (Grievance Redressal Portal)", "view": "View" },
-      { "name": "Web Portal for Fellowship/Scholarship Legacy Cases", "view": "View" },
-      { "name": "Anti-Ragging portal", "view": "View" },
-      { "name": "Ragging Related Circulars", "view": "View" },
-      { "name": "Videos regarding Ragging", "view": "View" },
-      { "name": "Lyngdoh Committee Report", "view": "View" },
-      { "name": "Supreme Court Judgments", "view": "View" },
-      { "name": "National Eligibility Test (NET)", "view": "View" },
-      { "name": "Edu Abroad for Indian Students", "view": "View" },
-      { "name": "Educational Loan", "view": "View" },
-      { "name": "Helplines", "view": "View" },
-      { "name": "National Scholarship Portal", "view": "View" },
+      { "id": 1, "name": "SWAYAM", "view": "https://swayam.gov.in/" },
+      { "id": 2, "name": "National Academic Depository", "view": "https://nad.gov.in/" },
+      { "id": 3, "name": "Academic Bank of Credits (ABC)", "view": "https://www.abc.gov.in/" },
+      { "id": 4, "name": "Fake Universities Alerts", "view": "View" },
+      { "id": 5, "name": "e-Samadhaan (Grievance Redressal Portal)", "view": "https://samadhaan.ugc.ac.in/Home/Index" },
+      { "id": 6, "name": "Web Portal for Fellowship/Scholarship Legacy Cases", "view": "https://scholarship.canarabank.bank.in/" },
+      { "id": 7, "name": "Anti-Ragging portal", "view": "https://www.antiragging.in/" },
+      { "id": 8, "name": "Ragging Related Circulars", "view": "https://www.antiragging.in/" },
+      { "id": 9, "name": "Videos regarding Ragging", "view": "https://www.ugc.gov.in/" },
+      { "id": 10, "name": "Lyngdoh Committee Report", "view": "https://www.ugc.gov.in/oldpdf/students_pdf/lyngdoh_committeemhrd2712.pdf" },
+      { "id": 11, "name": "Supreme Court Judgments", "view": "View" },
+      { "id": 12, "name": "National Eligibility Test (NET)", "view": "https://www.ugcnetonline.in/" },
+      { "id": 13, "name": "Edu Abroad for Indian Students", "view": "View" },
+      { "id": 14, "name": "Educational Loan", "view": "View" },
+      { "id": 15, "name": "Helplines", "view": "View" },
+      { "id": 16, "name": "National Scholarship Portal", "view": "https://scholarships.gov.in/" },
       {
+        "id": 17,
         "name": "Gender Sensitization Data in Universities, Colleges & Institutions in India",
         "view": "View"
       },
-      { "name": "Gender Champions in Institutions", "view": "View" },
-      { "name": "Women’s Studies Centres", "view": "View" }
+      { "id": 18, "name": "Gender Champions in Institutions", "view": "View" },
+      { "id": 19, "name": "Women’s Studies Centres", "view": "https://saksham.ugc.ac.in/v2/content/downloads/list%20of%20159%20WSC%20in%20Universities%20and%20Colleges.pdf?_gl=1*12slc2j*_ga*MTEyMDQ5MzQ2LjE3NjA2MjY2NDU.*_ga_FGHYECNLXB*czE3NjYwNzE4MDAkbzEyMiRnMSR0MTc2NjA3MjAwOSRqNDQkbDAkaDA.*_ga_Q0MS75D115*czE3NjYwNzE4MDEkbzEyMiRnMSR0MTc2NjA3MjAwOSRqNDQkbDAkaDA." }
     ]
   }
 ]

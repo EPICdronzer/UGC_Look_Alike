@@ -14,6 +14,7 @@ import EcommerceUGC from "./components/EcommerceUGC"
 import KeyInitiatives from "./components/KeyInitiatives"
 import KeyInitiativesDisplay from "./components/KeyInitiativesDisplay"
 import StudentCorner from "./components/StudentCorner"
+import FellowshipDisplay from "./components/FellowshipDisplay"
 function App() {
   
 
@@ -36,6 +37,8 @@ function App() {
         <Route path="/keyInitiatives" element={<KeyInitiatives/>}/>
         <Route path="/keyInitiatives/keyInitiativesDisplay/:id" element={<KeyInitiativesDisplay/>}/>
         <Route path="/studentCorner" element={<StudentCorner/>}/>
+        <Route path="/fellowship" element={<FellowshipDisplay/>}/>
+
       </Routes>
     </BrowserRouter>
     </>

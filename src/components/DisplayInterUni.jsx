@@ -96,8 +96,6 @@ function DisplayInterUni() {
                 </div>
 
             </div>
-
-            
             <div className='border-t-8 border-amber-600 p-6'>
                 <InterUniContent/>
             </div>

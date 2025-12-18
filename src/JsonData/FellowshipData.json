@@ -1,0 +1,100 @@
+[
+  {
+    "schemeId": "JRF-UGC-001",
+    "schemeName": "Junior Research Fellowship in Science, Humanities and Social Sciences",
+    "objective": "To provide financial assistance to NET/JRF-qualified candidates to undertake advanced studies and research leading to M.Phil./Ph.D. degree in Humanities, Social Sciences (including Languages), and Sciences.",
+    "eligibility": {
+      "qualification": [
+        "NET-JRF qualified",
+        "UGC-CSIR Joint Test qualified"
+      ],
+      "registrationCondition": "Registration for M.Phil/Ph.D. must be done within two years from the date of result declaration or award letter or joining the fellowship.",
+      "eligibleInstitutions": [
+        "Universities",
+        "Institutions",
+        "Colleges"
+      ]
+    },
+    "slots": 11750,
+    "tenure": {
+      "durationYears": 5,
+      "condition": "Whichever is earlier – 5 years or submission of thesis"
+    },
+    "financialAssistance": {
+      "fellowship": {
+        "JRF": {
+          "amountPerMonth": 37000,
+          "durationYears": 2
+        },
+        "SRF": {
+          "amountPerMonth": 42000,
+          "durationYears": 3
+        }
+      },
+      "contingency": {
+        "humanitiesAndSocialSciences": {
+          "JRF": 10000,
+          "SRF": 20500
+        },
+        "science": {
+          "JRF": 12000,
+          "SRF": 25000
+        }
+      }
+    },
+    "implementingAgency": "University Grants Commission (UGC)",
+    "testingAgency": "National Testing Agency (NTA)",
+    "officialWebsite": "https://ugcnet.nta.nic.in/",
+    "status": "Active"
+  },
+  {
+    "schemeId": "SGC-UGC-002",
+    "schemeName": "Savitribai Jyotirao Phule Fellowship For Single Girl Child",
+    "objective": [
+      "To provide fellowship for pursuing research work leading to award of Ph.D. degree.",
+      "To support higher education of single girl child in Social Sciences.",
+      "To recognize the value of observance of small family norm.",
+      "To promote the concept of single girl child in society.",
+      "To empower and promote single girl children through higher education."
+    ],
+    "eligibility": {
+      "candidateType": "Single Girl Child",
+      "qualification": "Pursuing Ph.D. in any stream/subject",
+      "eligibleInstitutions": [
+        "Recognised Universities",
+        "Colleges",
+        "Institutes"
+      ]
+    },
+    "slots": "Decided annually based on eligible applications received online",
+    "tenure": {
+      "durationYears": 5,
+      "condition": "Whichever is earlier – submission of Ph.D. thesis or 5 years"
+    },
+    "financialAssistance": {
+      "fellowship": {
+        "JRF": {
+          "amountPerMonth": 37000,
+          "durationYears": 2
+        },
+        "SRF": {
+          "amountPerMonth": 42000,
+          "durationYears": 3
+        }
+      },
+      "contingency": {
+        "humanitiesAndSocialSciences": {
+          "initialTwoYears": 10000,
+          "remainingTenure": 20500
+        },
+        "science": {
+          "initialTwoYears": 12000,
+          "remainingTenure": 25000
+        }
+      }
+    },
+    "implementingAgency": "University Grants Commission (UGC)",
+    "officialWebsite": "https://frg.ugc.ac.in/",
+    "status": "Active"
+  }
+]
