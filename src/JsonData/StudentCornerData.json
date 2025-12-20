@@ -45,18 +45,18 @@
       { "id": 8, "name": "Ragging Related Circulars", "view": "https://www.antiragging.in/" },
       { "id": 9, "name": "Videos regarding Ragging", "view": "https://www.ugc.gov.in/" },
       { "id": 10, "name": "Lyngdoh Committee Report", "view": "https://www.ugc.gov.in/oldpdf/students_pdf/lyngdoh_committeemhrd2712.pdf" },
-      { "id": 11, "name": "Supreme Court Judgments", "view": "View" },
+      { "id": 11, "name": "Supreme Court Judgments", "view": "supreme" },
       { "id": 12, "name": "National Eligibility Test (NET)", "view": "https://www.ugcnetonline.in/" },
-      { "id": 13, "name": "Edu Abroad for Indian Students", "view": "View" },
-      { "id": 14, "name": "Educational Loan", "view": "View" },
-      { "id": 15, "name": "Helplines", "view": "View" },
+      { "id": 13, "name": "Edu Abroad for Indian Students", "view": "eduabroad" },
+      { "id": 14, "name": "Educational Loan", "view": "educational" },
+      { "id": 15, "name": "Helplines", "view": "helpline" },
       { "id": 16, "name": "National Scholarship Portal", "view": "https://scholarships.gov.in/" },
       {
         "id": 17,
         "name": "Gender Sensitization Data in Universities, Colleges & Institutions in India",
-        "view": "View"
+        "view": "sensitization"
       },
-      { "id": 18, "name": "Gender Champions in Institutions", "view": "View" },
+      { "id": 18, "name": "Gender Champions in Institutions", "view": "gender" },
       { "id": 19, "name": "Women’s Studies Centres", "view": "https://saksham.ugc.ac.in/v2/content/downloads/list%20of%20159%20WSC%20in%20Universities%20and%20Colleges.pdf?_gl=1*12slc2j*_ga*MTEyMDQ5MzQ2LjE3NjA2MjY2NDU.*_ga_FGHYECNLXB*czE3NjYwNzE4MDAkbzEyMiRnMSR0MTc2NjA3MjAwOSRqNDQkbDAkaDA.*_ga_Q0MS75D115*czE3NjYwNzE4MDEkbzEyMiRnMSR0MTc2NjA3MjAwOSRqNDQkbDAkaDA." }
     ]
   }

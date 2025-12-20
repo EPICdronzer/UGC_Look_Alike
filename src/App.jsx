@@ -15,6 +15,11 @@ import KeyInitiatives from "./components/KeyInitiatives"
 import KeyInitiativesDisplay from "./components/KeyInitiativesDisplay"
 import StudentCorner from "./components/StudentCorner"
 import FellowshipDisplay from "./components/FellowshipDisplay"
+import Supreme from "./components/Supreme"
+import EduAbroad from "./components/EduAbroad"
+import EducationalPortal from "./components/EducationalPortal"
+import GenderChampion from "./components/GenderChampion"
+import GenderSensitization from "./components/GenderSensitization"
 function App() {
   
 
@@ -39,7 +44,11 @@ function App() {
         <Route path="/studentCorner" element={<StudentCorner/>}/>
         <Route path="/fellowship/:id" element={<FellowshipDisplay/>}/>
         <Route path="/scholarship/:id" element={<FellowshipDisplay/>}/>
-
+        <Route path="/supreme" element={<Supreme/>}/>
+        <Route path="/eduabroad" element={<EduAbroad/>}/>
+        <Route path="/educational" element={<EducationalPortal/>}/>
+        <Route path="/gender" element={<GenderChampion/>}/>
+        <Route path="/sensitization" element={<GenderSensitization/>}/>
       </Routes>
     </BrowserRouter>
     </>

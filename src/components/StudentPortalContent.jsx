@@ -10,14 +10,12 @@ function StudentPortalContent() {
                 <div className='w-xs gap-2.5 flex flex-col'>
                     
                         <div class="flex gap-2 items-center"><i class="fa fa-arrow-circle-right text-amber-600"/><span><NavLink to="/Genesis" className="!text-inherit !no-underline">Fake Universities</NavLink></span></div>
-                        <div class="flex gap-2 items-center"><i class="fa fa-arrow-circle-right text-amber-600"/><span><NavLink to="/Mandate" className="!text-inherit !no-underline">Supreme Court Judgments</NavLink></span></div>
-                        <div class="flex gap-2 items-center"><i class="fa fa-arrow-circle-right text-amber-600"/><span><NavLink to="/UGCAct" className="!text-inherit !no-underline">Edu Abroad for Indian Students</NavLink></span></div>
-                        <div class="flex gap-2 items-center"><i class="fa fa-arrow-circle-right text-amber-600"/><span><NavLink to="/Logo" className="!text-inherit !no-underline">Educational Loan</NavLink></span></div>
-                        <div class="flex gap-2 items-center"><i class="fa fa-arrow-circle-right text-amber-600"/><span><NavLink to="/UGCBureaus" className="!text-inherit !no-underline">Helplines</NavLink></span></div>
-                        <div class="flex gap-2 items-center"><i class="fa fa-arrow-circle-right text-amber-600"/><span><NavLink to="/UGCOffices" className="!text-inherit !no-underline">Gender Sensitization Data in Universities, Colleges & Institutions in India</NavLink></span></div>
-                        <div class="flex gap-2 items-center"><i class="fa fa-arrow-circle-right text-amber-600"/><span><NavLink to="/InterUniversityCentres" className="!text-inherit !no-underline">Gender Champions in Institutions</NavLink></span></div>
-                        <div class="flex gap-2 items-center"><i class="fa fa-arrow-circle-right text-amber-600"/><span><NavLink to="/NationalFacilities" className="!text-inherit !no-underline">National Facilities</NavLink></span></div>
-                        <div class="flex gap-2 items-center"><i class="fa fa-arrow-circle-right text-amber-600"/><span><NavLink to="/NationalFacilities" className="!text-inherit !no-underline">Lyngdoh Committee</NavLink></span></div>
+                        <div class="flex gap-2 items-center"><i class="fa fa-arrow-circle-right text-amber-600"/><span><NavLink to="/supreme" className="!text-inherit !no-underline">Supreme Court Judgments</NavLink></span></div>
+                        <div class="flex gap-2 items-center"><i class="fa fa-arrow-circle-right text-amber-600"/><span><NavLink to="/eduabroad" className="!text-inherit !no-underline">Edu Abroad for Indian Students</NavLink></span></div>
+                        <div class="flex gap-2 items-center"><i class="fa fa-arrow-circle-right text-amber-600"/><span><NavLink to="/educational" className="!text-inherit !no-underline">Educational Loan</NavLink></span></div>
+                        <div class="flex gap-2 items-center"><i class="fa fa-arrow-circle-right text-amber-600"/><span><NavLink to="/helpline" className="!text-inherit !no-underline">Helplines</NavLink></span></div>
+                        <div class="flex gap-2 items-center"><i class="fa fa-arrow-circle-right text-amber-600"/><span><NavLink to="/sensitization" className="!text-inherit !no-underline">Gender Sensitization Data in Universities, Colleges & Institutions in India</NavLink></span></div>
+                        <div class="flex gap-2 items-center"><i class="fa fa-arrow-circle-right text-amber-600"/><span><NavLink to="/gender" className="!text-inherit !no-underline">Gender Champions in Institutions</NavLink></span></div>
                     
         </div>
     </>
