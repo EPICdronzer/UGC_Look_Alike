@@ -20,14 +20,14 @@
     "title": "Scholarships",
     "list": [
       {
-        "id": 1,
+        "id": 3,
         "name": "IshanUday Special Scholarship Scheme for North Eastern Region",
-        "view": "View"
+        "view": "scholarship"
       },
       {
-        "id": 2,
+        "id": 4,
         "name": "National Scholarship for Post Graduate Studies",
-        "view": "View"
+        "view": "scholarship"
       }
     ]
   },

@@ -40,11 +40,11 @@ function StudentCorner() {
     function linking(data1){
         if(selected==1 || selected==2){
             return(
-                <NavLink className='!no-underline text-black' to={`/${data1.view}`}>View</NavLink>
+                <NavLink className='!no-underline text-black' to={`/${data1.view}/${data1.id}`}>View</NavLink>
             )
         }
         else if(selected==3){
-            const allowed = [1,2,3,5,6,7,8,9,10,11,16,19]
+            const allowed = [1,2,3,5,6,7,8,9,10,12,16,19]
             if(allowed.includes(data1.id)){
                 return(
                     <a className='!no-underline text-black' href={data1.view}>View</a>
@@ -61,6 +61,14 @@ function StudentCorner() {
     <HeaderTop/>
     <HeaderMid/>
     <Header/>
+        <div className='bg-[url("https://www.ugc.gov.in/Content/images/header/services2.jpg")] w-full flex flex-col h-auto p-12 text-white px-32 gap-6 flex-wrap'>
+            <div className='text-amber-600'>
+            Home / Student Corner
+            </div>
+            <div className="text-5xl mb-2 font-semibold">
+            Student Corner
+            </div>
+        </div>
         <div className='w-full flex flex-wrap gap-5 px-30 py-20 justify-center'>
             <div className="flex flex-col gap-2 max-w-xl rounded-2xl text-center ">
                 <button onClick={()=>setSelected(1)} className={`w-full p-4 py-3 !rounded-sm transition

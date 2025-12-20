@@ -37,7 +37,8 @@ function App() {
         <Route path="/keyInitiatives" element={<KeyInitiatives/>}/>
         <Route path="/keyInitiatives/keyInitiativesDisplay/:id" element={<KeyInitiativesDisplay/>}/>
         <Route path="/studentCorner" element={<StudentCorner/>}/>
-        <Route path="/fellowship" element={<FellowshipDisplay/>}/>
+        <Route path="/fellowship/:id" element={<FellowshipDisplay/>}/>
+        <Route path="/scholarship/:id" element={<FellowshipDisplay/>}/>
 
       </Routes>
     </BrowserRouter>

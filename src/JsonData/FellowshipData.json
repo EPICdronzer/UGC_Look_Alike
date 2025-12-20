@@ -1,53 +1,46 @@
 [
   {
+    "id":1,
     "schemeId": "JRF-UGC-001",
     "schemeName": "Junior Research Fellowship in Science, Humanities and Social Sciences",
-    "objective": "To provide financial assistance to NET/JRF-qualified candidates to undertake advanced studies and research leading to M.Phil./Ph.D. degree in Humanities, Social Sciences (including Languages), and Sciences.",
-    "eligibility": {
-      "qualification": [
-        "NET-JRF qualified",
-        "UGC-CSIR Joint Test qualified"
-      ],
-      "registrationCondition": "Registration for M.Phil/Ph.D. must be done within two years from the date of result declaration or award letter or joining the fellowship.",
-      "eligibleInstitutions": [
-        "Universities",
-        "Institutions",
-        "Colleges"
-      ]
-    },
-    "slots": 11750,
-    "tenure": {
-      "durationYears": 5,
-      "condition": "Whichever is earlier – 5 years or submission of thesis"
-    },
-    "financialAssistance": {
-      "fellowship": {
-        "JRF": {
-          "amountPerMonth": 37000,
-          "durationYears": 2
-        },
-        "SRF": {
-          "amountPerMonth": 42000,
-          "durationYears": 3
-        }
+    "objective": [
+      "To provide Financial assistance to NET/JRF-qualified candidates to undertake advanced studies and research leading to M. Phil. / Ph. D. Degree in Humanities and Social Sciences including Languages and Sciences."
+    ],
+    "eligibility": "Candidates who have qualified in NET-JRF or the UGC-CSIR joint test. However, the registration for the M.Phil/PhD is made by the Universities/Institutions/Colleges within stipulated period of two years from the date of declaration of result or date of issue of award letter/date of joining the fellowship.",
+    "slots": "11750",
+    "tenure": "5 years or submission of thesis whichever is earlier",
+    "financialAssistance": [
+      {
+        "topic":"JRF",
+        "salary":[
+          "@Rs. 37,000/- pm for 2 years"
+        ]
       },
-      "contingency": {
-        "humanitiesAndSocialSciences": {
-          "JRF": 10000,
-          "SRF": 20500
-        },
-        "science": {
-          "JRF": 12000,
-          "SRF": 25000
-        }
+      {
+        "topic":"SRF",
+        "salary":[
+          "@Rs. 42,000/- pm for remaining period"
+        ]
+      },
+      {
+        "topic":"Contingency A (for Humanities & Social Sciences)",
+        "salary":[
+          "Rs. 10,000/- pa for JRF",
+          "Rs. 20,500/- pa for SRF"
+        ]
+      },
+      {
+        "topic":"Contingency B (for Science scholars)",
+        "salary":[
+          "Rs. 10,000/- pa for for JRF",
+          "Rs. 20,500/- pa for SRF"
+        ]
       }
-    },
-    "implementingAgency": "University Grants Commission (UGC)",
-    "testingAgency": "National Testing Agency (NTA)",
-    "officialWebsite": "https://ugcnet.nta.nic.in/",
-    "status": "Active"
+    ],
+    "remark": "National Testing agency https://ugcnet.nta.nic.in/"
   },
   {
+    "id":2,
     "schemeId": "SGC-UGC-002",
     "schemeName": "Savitribai Jyotirao Phule Fellowship For Single Girl Child",
     "objective": [
@@ -57,44 +50,79 @@
       "To promote the concept of single girl child in society.",
       "To empower and promote single girl children through higher education."
     ],
-    "eligibility": {
-      "candidateType": "Single Girl Child",
-      "qualification": "Pursuing Ph.D. in any stream/subject",
-      "eligibleInstitutions": [
-        "Recognised Universities",
-        "Colleges",
-        "Institutes"
-      ]
-    },
-    "slots": "Decided annually based on eligible applications received online",
-    "tenure": {
-      "durationYears": 5,
-      "condition": "Whichever is earlier – submission of Ph.D. thesis or 5 years"
-    },
-    "financialAssistance": {
-      "fellowship": {
-        "JRF": {
-          "amountPerMonth": 37000,
-          "durationYears": 2
-        },
-        "SRF": {
-          "amountPerMonth": 42000,
-          "durationYears": 3
-        }
+    "eligibility": "Any single girl child of her parents pursuing Ph.D. in any stream/subject in recognised Universities/Colleges/ Institutes is eligible to apply under the scheme.",
+    "slots": "The number of slots for fellowship will be decided every year on the basis of eligible applications complete in all respects, received through online mode.",
+    "tenure": "Fellowship will be granted upto the date of submission of Ph.D. Thesis or 5 years of tenure whichever is earlier.",
+    "financialAssistance": [
+      {
+        "topic":"JRF",
+        "salary":[
+          "@Rs. 37,000/- pm for 2 years"
+        ]
       },
-      "contingency": {
-        "humanitiesAndSocialSciences": {
-          "initialTwoYears": 10000,
-          "remainingTenure": 20500
-        },
-        "science": {
-          "initialTwoYears": 12000,
-          "remainingTenure": 25000
-        }
+      {
+        "topic":"SRF",
+        "salary":[
+          "@Rs. 42,000/- pm for remaining period"
+        ]
+      },
+      {
+        "topic":"Contingency A (for Humanities & Social Sciences)",
+        "salary":[
+          "Rs. 10,000/- pa for initial two years",
+          "Rs. 20,500/- pa for remaining tenure"
+        ]
+      },
+      {
+        "topic":"Contingency B (for Science scholars)",
+        "salary":[
+          "Rs. 10,000/- pa for initial two years",
+          "Rs. 20,500/- pa for remaining tenure"
+        ]
       }
-    },
-    "implementingAgency": "University Grants Commission (UGC)",
-    "officialWebsite": "https://frg.ugc.ac.in/",
-    "status": "Active"
-  }
+    ],
+    "remark": "University Grants Commission (UGC) https://frg.ugc.ac.in/"
+  },
+  {
+  "id": 3,
+  "schemeId": "NER-UGC-003",
+  "schemeName": "IshanUday Special Scholarship Scheme for North Eastern Region",
+  "objective": [
+    "To promote higher education in the North Eastern Region by providing financial assistance to the students of the region."
+  ],
+  "eligibility": "The scholarship is open to students who have passed Class XII or equivalent examination from a school situated within the North Eastern Region (NER) through a recognized Board of Education. Only students admitted in the first year of UG degree programme through Regular/Full Time mode are eligible. The scholarship is applicable only for recognized UG degree programmes notified by UGC from time to time. In case of integrated or dual degree programmes, the scholarship is payable for the UG component only. The annual income of the parents should be below Rs. 4.50 lakh.",
+  "slots": "10,000 per annum",
+  "tenure": "3 to 5 years",
+  "financialAssistance": [
+    {
+      "topic": "Scholarship Amount",
+      "salary": [
+        "Rs. 80,000/- per annum"
+      ]
+    }
+  ],
+  "remark": "National Scholarship Portal https://scholarship.canarabank.in"
+},
+{
+  "id": 4,
+  "schemeId": "PG-UGC-004",
+  "schemeName": "National Scholarship for Post Graduate Studies",
+  "objective": [
+    "To provide financial assistance to Indian students leading to award of Postgraduate Degree."
+  ],
+  "eligibility": "Students admitted in the first year of PG degree programme through Regular/Full Time mode in an eligible university/college/institution are eligible to apply. In case of integrated programmes, the scholarship shall be provided for the PG component only. The age limit for applicants is 30 years. The scholarship is applicable only to students pursuing recognized PG degree programmes leading to specified PG degrees notified by UGC from time to time, as per UGC Notification on Specification of Degrees, 2014 and amendments thereof.",
+  "slots": "10,000 per annum",
+  "tenure": "2 years",
+  "financialAssistance": [
+    {
+      "topic": "Scholarship Amount",
+      "salary": [
+        "Rs. 1,50,000/- per annum"
+      ]
+    }
+  ],
+  "remark": "National Scholarship Portal https://scholarships.gov.in/"
+}
+
+
 ]
