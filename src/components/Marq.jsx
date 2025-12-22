@@ -27,11 +27,19 @@ function Marq() {
                 Parliament in 1956, for the coordination, determination and maintenance of standards of teaching, examination and research in university education.
               </p>
             </div>
-            <NavLink className="!text-inherit !no-underline" to="/about">
-            <button className="bg-[#ff6c3a] text-white w-32 h-12 !rounded-full !text-sm font-semibold items-center justify-center">
-              Read More
-            </button>
-            </NavLink> 
+            <div className='flex gap-3'>
+              <NavLink className="!text-inherit !no-underline" to="/about">
+              <button className="bg-[#ff6c3a] text-white w-32 h-12 !rounded-full !text-sm font-semibold items-center justify-center">
+                Read More
+              </button>
+              </NavLink>
+              <NavLink className="!text-inherit !no-underline" to="/adduniversities">
+              <button className="shadow-gray-200 !shadow-2xl border-2 border-gray-300 w-32 h-12 !rounded-full !text-sm font-semibold items-center justify-center text-gray-400 hover:!text-black hover:!border-black transition duration-700 ease-in-out">
+                Add Universities
+              </button>
+              </NavLink> 
+            </div>
+            
           </div>
         </div>
 

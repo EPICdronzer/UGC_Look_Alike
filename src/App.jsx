@@ -20,6 +20,7 @@ import EduAbroad from "./components/EduAbroad"
 import EducationalPortal from "./components/EducationalPortal"
 import GenderChampion from "./components/GenderChampion"
 import GenderSensitization from "./components/GenderSensitization"
+import AddUni from "./components/AddUniversities/AddUni"
 function App() {
   
 
@@ -49,6 +50,7 @@ function App() {
         <Route path="/educational" element={<EducationalPortal/>}/>
         <Route path="/gender" element={<GenderChampion/>}/>
         <Route path="/sensitization" element={<GenderSensitization/>}/>
+        <Route path="/adduniversities" element={<AddUni/>}/>
       </Routes>
     </BrowserRouter>
     </>
