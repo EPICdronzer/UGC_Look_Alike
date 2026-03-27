@@ -1,12 +1,12 @@
-import React from 'react'
+// import React from 'react'
 
-import {configureStore} from "react-redux"
-import CounterSlice from "./CounterSlice"
+// import {configureStore} from "react-redux"
+// import CounterSlice from "./CounterSlice"
 
-const Store=configureStore({
-    reducer:{
-        counter:CounterSlice
-    }
-})
+// const Store=configureStore({
+//     reducer:{
+//         counter:CounterSlice
+//     }
+// })
 
-export default Store
+// export default Store
